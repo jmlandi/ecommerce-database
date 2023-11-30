@@ -1,6 +1,6 @@
 # Modelo Conceitual de Banco De Dados para E-Commerce 👨‍💼
 
-Bem-vindo(a) ao meu projeto de modelo conceitual de banco de dados para E-commerce.
+Bem-vindo(a) ao meu projeto de modelo conceitual de banco de dados para E-commerce! Neste projeto, idealizo a organização de uma loja online focando em cobrir as operações básicas para o funcionamento de uma loja na internet.
 
 ## Cenário ☕️
 
