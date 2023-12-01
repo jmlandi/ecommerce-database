@@ -15,7 +15,7 @@ Bem-vindo(a) ao meu projeto de modelo conceitual de banco de dados para E-commer
 
 ## Modelagem Conceitual 🦄
 
-O modelo conceitual do Diagrama Entidade-Relacionamento pode ser acessado no arquivo *modelo_conceitual.drawio* ou visualizando a imagem abaixo:<br/ >
+O modelo conceitual do Diagrama Entidade-Relacionamento pode ser acessado no arquivo *modelo_conceitual.drawio* ou visualizando a imagem abaixo:__
 <img src="modelo_conceitual.drawio.png" width="100%">
 
 ## Modelagem Lógica 🖥️
